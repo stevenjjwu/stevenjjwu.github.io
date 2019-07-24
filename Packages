@@ -1,0 +1,23 @@
+Package: me.nepeta.copypasta
+Name: Copypasta
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
+Architecture: iphoneos-arm
+Filename: ./debs/me.nepeta.copypasta_0.1.4-1_iphoneos-arm.deb
+Description: Minimalist clipboard manager
+Maintainer: Nepeta
+Author: Nepeta
+Section: Tweaks
+Version: 0.1.4-1
+Size: 256
+
+Package: com.steventest.ntspeed
+Name: NtSpeed
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.steventest.ntspeed_0.0.1-1_iphoneos-arm.deb
+Description: An awesome MobileSubstrate tweak!
+Maintainer: JJ
+Author: JJ
+Section: Tweaks
+Version: 0.0.1-1
+Size: 280
