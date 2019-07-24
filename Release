@@ -1,0 +1,8 @@
+Origin: stevenjjwu's Repo
+Label: stevenjjwu
+Suite: stable
+Version: 1.0
+Codename: stevenjjwu
+Architecture: iphoneos-arm
+Components: main
+Description: Tweaks I find useful
